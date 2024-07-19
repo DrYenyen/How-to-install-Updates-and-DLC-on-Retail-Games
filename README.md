@@ -13,7 +13,8 @@ Another example Resident Evil 2, USA is *CUSA09193* while Asia is *PLAS10335*
 3. Game Updates files on the PS4 are considered *Patches* by the system and are located on the HDD inside the /user/patch directory in folders reflecting their product code region and unique number ID.    
 4. Game DLC files on the ps4 are considered *Add-on Content* by the system and are located on the HDD inside the /user/addcont directory in folders reflecting their product code region and unique number ID.      
 5. Additionally Screenshots and Videos are in /user/av_content/    
-
+How to FTP into PS4 and view the contents of the HDD guide    
+     
       
 # What is Orbis-Patches    
 ORBIS Patches is an actively maintained archive of PlayStation 4 retail game updates. With over 80.000 patches in the database ORBIS Patches is the biggest patch database to date    
