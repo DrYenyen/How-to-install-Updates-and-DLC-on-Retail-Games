@@ -28,7 +28,7 @@ To note all pkg's come in the .pkg file format
 # Retail PKG files cannot be used on FKPGS! But FPKGS can be installed onto Retail PKGS.       
        
 
-# Updates and DLC     
+# Installing Updates and DLC     
 1. It is reccomended to download updates for retail games (disc or digital) via [Orbis-Patches](https://orbispatches.com/).           
 2. On the Orbis-Patches website search the name of your game and make sure you select the correct region alternatively type in the product code region and unique number ID of your game.  
 3. DLC have to be from a FPKG source        
