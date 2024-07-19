@@ -2,7 +2,8 @@
 This covers how  to install Updates and DLC on retail digital or disc PS4 games you own.      
 
 # The PS4 system game structure  
-1 The product code is distinct to a region, and the common codes you’ll see are CUSA, PCAS, and PLAS. It is followed by a unique number ID unique to each game.     
+1 The product code is distinct to a region, and the common codes you’ll see are CUSA, PCAS, and PLAS.      
+It is followed by a unique number ID unique to each game.        
 R1 USA-*CUSA*
 R2 Europe-*CUSA*
 R3 Asia-*PLAS*, *PCAS*
