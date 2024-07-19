@@ -27,13 +27,15 @@ In short:
 pkg = Official game, update or dlc file a normal pkg that checks the user who launches the app has a license to run.    
      
 fpkg = dumped game with fake verification via Debug or Goldhen.
-       
+      
+To note all pkg's come in the .pkg file format   
+
 	   
 # What is [Orbis-Patches](https://orbispatches.com/)    
 ORBIS Patches is an actively maintained archive of PlayStation 4 retail game updates. With over 80.000 patches in the database ORBIS Patches is the biggest patch database to date    
 
 
-To note all pkg's come in the .pkg file format    
-# How to install PKG and FPKGS Guide
+ 
+# How to install PKGS and FPKGS Guide
 https://github.com/DrYenyen/How-To-Install-PS4-FPKGS     
     
