@@ -25,6 +25,8 @@ fpkg = dumped game with fake verification via Debug or Goldhen.
       
 To note all pkg's come in the .pkg file format      
      
+# Retail PKG files cannot be used on FKPGS! But FPKGS can be installed onto Retail PKGS.       
+       
 
 # Updates and DLC     
 1. It is reccomended to download updates for retail games (disc or digital) via [Orbis-Patches](https://orbispatches.com/).           
