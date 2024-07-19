@@ -18,7 +18,7 @@ How to FTP into PS4 and view the contents of the HDD guide
       
 # Updates and DLC     
 1. It is reccomended to download updates for retail games (disc or digital) via [Orbis-Patches](https://orbispatches.com/).           
-2. Search the name of your game and make usre you select the correct region or type in the product code region and unique number ID.      
+2. Search the name of your game and make sure you select the correct region or type in the product code region and unique number ID.      
 3. You can download FPKG Updates or DLC and install them onto your retail games but you cannot apply retail updates from Orbis-Patches to FPKG dumped games.    
 
 # What are PKGS and FPKGS      
