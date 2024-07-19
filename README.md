@@ -11,7 +11,7 @@ Another example Resident Evil 2, USA is *CUSA09193* while Asia is *PLAS10335*
 2. Game files on the PS4 are considered *Apps* by the system and are located on the HDD inside the /user/app directory in folders reflecting their product code region.
 3. Game Updates files on the PS4 are considered *Patches* by the system and are located on the HDD inside the /user/patch directory in folders reflecting their product code region.
 4. Game DLC files on the ps4 are considered *Add-on Content* by the system and are located on the HDD inside the /user/addcont directory in folders reflecting their product code region.
-Additionally Screenshots and Videos are in /user/av_content/
+5. Additionally Screenshots and Videos are in /user/av_content/
 
       
 # What is Orbis-Patches    
