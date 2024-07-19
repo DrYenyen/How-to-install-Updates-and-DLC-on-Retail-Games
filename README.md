@@ -32,7 +32,11 @@ To note all pkg's come in the .pkg file format
 # What is [Orbis-Patches](https://orbispatches.com/)    
 ORBIS Patches is an actively maintained archive of PlayStation 4 retail game updates. With over 80.000 patches in the database ORBIS Patches is the biggest patch database to date    
        
-	   
+
+# Firmaware required for games                                                                                                                                                                                                             
+Retail and FPKG games their updates and dlc have a minimum firmware version that they can run on although FPKGS usually have backports which means they can run on lower firmware than the retail versions.       
+     
+	 
 # Installing Updates and DLC     
 1. It is reccomended to download updates for retail games (disc or digital) via [Orbis-Patches](https://orbispatches.com/).           
 2. On the Orbis-Patches website search the name of your game and make sure you select the correct region alternatively type in the product code region and unique number ID of your game.  
