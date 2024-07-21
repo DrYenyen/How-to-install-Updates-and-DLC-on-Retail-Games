@@ -1,6 +1,14 @@
 # How-to-install-Updates-and-DLC-on-Retail-Games
 This covers how  to install Updates and DLC on retail digital or disc PS4 games you own.      
-
+      
+# What are PKGS and FPKGS      
+In short:    
+       
+pkg = Official game, update or dlc file a normal pkg that checks the user who launches the app has a license to run.    
+     
+fpkg = dumped game with fake verification via Debug or Goldhen.
+      
+To note all pkg's come in the .pkg file format      
 # The PS4 system game structure  
 1 The product code is distinct to a region, and the common codes you’ll see are CUSA, PCAS, and PLAS.      
 It is followed by a unique number ID.        
