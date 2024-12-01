@@ -54,8 +54,5 @@ Retail and FPKG games their updates and dlc have a minimum firmware version that
 # Installing Updates and DLC     
 1. It is reccomended to download updates for retail games (disc or digital) via [Orbis-Patches](https://orbispatches.com/).           
 2. On the Orbis-Patches website search the name of your game and make sure you select the correct region alternatively type in the product code region and unique number ID of your game.  
-3. DLC have to be from a FPKG source        
-4. You can download FPKG Updates or DLC and install them onto your retail games but you cannot apply retail updates from Orbis-Patches to FPKG dumped games.    
-5. Follow this guide to install them  > [How to install PKGS and FPKGS](https://github.com/DrYenyen/How-To-Install-PS4-FPKGS)     
-6. Stonks   
+3. DLC cannot be installed easily further information in the future.
     
