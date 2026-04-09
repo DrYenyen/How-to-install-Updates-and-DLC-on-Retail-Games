@@ -11,12 +11,11 @@ fpkg = dumped game with fake verification via Debug or Goldhen.
 To note all pkg's come in the .pkg file format       
        
 # The PS4 system game structure  
-1 The product code is distinct to a region, and the common codes you’ll see are CUSA, PCAS, and PLAS.      
-It is followed by a unique number ID.        
-R1 USA-*CUSA*       
-R2 Europe-*CUSA*         
-R3 Asia-*PLAS*, *PCAS*    
-         
+1. The product code is distinct to a region, and the common codes you’ll see are CUSA, PCAS, and PLAS.
+It is followed by a unique number ID.
+R1 USA-*CUSA*
+R2 Europe-*CUSA*
+R3 Asia-*PLAS*, *PCAS*
 For example Minecraft USA is *CUSA00744* while Minecraft EU is *CUSA00265*              
 Another example Resident Evil 2, USA is *CUSA09193* while Asia is *PLAS10335*     
                 
