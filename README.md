@@ -11,12 +11,11 @@ fpkg = dumped game with fake verification via Debug or Goldhen.
 To note all pkg's come in the .pkg file format       
        
 # The PS4 system game structure  
-1 The product code is distinct to a region, and the common codes you’ll see are CUSA, PCAS, and PLAS.      
-It is followed by a unique number ID.        
-R1 USA-*CUSA*       
-R2 Europe-*CUSA*         
-R3 Asia-*PLAS*, *PCAS*    
-         
+1. The product code is distinct to a region, and the common codes you’ll see are CUSA, PCAS, and PLAS.
+It is followed by a unique number ID.
+R1 USA-*CUSA*
+R2 Europe-*CUSA*
+R3 Asia-*PLAS*, *PCAS*
 For example Minecraft USA is *CUSA00744* while Minecraft EU is *CUSA00265*              
 Another example Resident Evil 2, USA is *CUSA09193* while Asia is *PLAS10335*     
                 
@@ -47,12 +46,12 @@ To note all pkg's come in the .pkg file format
 ORBIS Patches is an actively maintained archive of PlayStation 4 retail game updates. With over 80.000 patches in the database ORBIS Patches is the biggest patch database to date    
        
 
-# Firmaware required for games                                                                                                                                                                                                             
+# Firmware required for games
 Retail and FPKG games their updates and dlc have a minimum firmware version that they can run on although FPKGS usually have backports which means they can run on lower firmware than the retail versions.       
      
 	 
 # Installing Updates and DLC     
-1. It is reccomended to download updates for retail games (disc or digital) via [Orbis-Patches](https://orbispatches.com/).           
+1. It is recomended to download updates for retail games (disc or digital) via [Orbis-Patches](https://orbispatches.com/).
 2. On the Orbis-Patches website search the name of your game and make sure you select the correct region alternatively type in the product code region and unique number ID of your game.  
 3. DLC cannot be installed easily further information in the future.
     
